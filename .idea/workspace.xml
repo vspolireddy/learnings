@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58c5364-dc71-4155-9c48-690cc751fa86" name="Default Changelist" comment="" />
+    <list default="true" id="f58c5364-dc71-4155-9c48-690cc751fa86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../learnings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/data_cleaning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/pg5200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/pg5200.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/data_cleaning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,10 +34,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="28" />
-    <option name="width" value="1664" />
-    <option name="height" value="948" />
+    <option name="x" value="12" />
+    <option name="y" value="26" />
+    <option name="width" value="1665" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -50,12 +45,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="Twitter_web_scrapping_sentiment_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="Twitter_web_scrapping_sentiment_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="data_cleaning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,15 +175,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
-    <editor active="true" />
+    <frame x="840" y="63" width="840" height="947" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13261001" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43589744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30643275" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -180,9 +205,15 @@
     <entry file="file://$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/data_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/.ipynb_checkpoints/data_cleaning-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learnings/Twitter_web_scrapping_sentiment_analysis/data_cleaning/data_cleaning.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
